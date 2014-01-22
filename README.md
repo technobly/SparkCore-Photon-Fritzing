@@ -20,7 +20,7 @@ http://fritzing.org/download/
 ###Open the Examples###
 Check out the projects in the ``examples`` directory!
 
-![example](http://i.imgur.com/CDcBhYg.png)
+![example](http://i.imgur.com/Vs8tszs.png)
 
 <hr>
 ¹. About 20 hours of work.
